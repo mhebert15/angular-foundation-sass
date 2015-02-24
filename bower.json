@@ -1,0 +1,15 @@
+{
+  "name": "angular-foundation-sass",
+  "version": "5.5.1",
+  "main": [
+    "scss/normalize.scss",
+    "scss/foundation.scss"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "angular-foundation": "~0.5.1"
+  },
+  "devDependencies": {
+  },
+  "private": false
+}
